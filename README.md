@@ -33,7 +33,7 @@ Hi there, my name is Prince Mishra and I am a passionate FullStack web developer
 
 <h2>🥇 Technical Skills:  </h2>  
 <div align="center" style="margin-bottom: 2px">
-<!-- <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
+<img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
 <img src="https:/
