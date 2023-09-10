@@ -3,7 +3,18 @@
 </h2>  
 
 Hi there, my name is Prince Mishra and I am a passionate FullStack web developer. I am constantly learning and striving to improve my skills in order to deliver the best solutions for my clients. With a strong foundation in both front-end and back-end development, I am comfortable working on projects of all sizes and complexities. Whether you need a new website or want to update your existing online presence, I am here to help bring your vision to life. Thank you for visiting my GitHub, I look forward to working with you! 
-user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="100%" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princemishra01&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
+
+   <p align="center" color:"red">
+     <a href="">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Prince+Mishra;I+am+interested+in+FullStack+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 - 🔭 I’m currently working on **Frontend & Backend**
